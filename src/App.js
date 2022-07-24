@@ -1,4 +1,4 @@
-import Inicio from "./components/Inicio"
+import Inicio from './Inicio';
 
 export default function App(){
 
