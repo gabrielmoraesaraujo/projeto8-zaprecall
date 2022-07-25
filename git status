@@ -1,0 +1,29 @@
+[33mcommit d6317ab8bc72ea1360fa6f08b5364264cb6b8e8c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Gabriel Moraes <gmoraes.mat@gmail.com>
+Date:   Mon Jul 25 12:21:13 2022 -0300
+
+    perguntas ok
+
+[33mcommit 04d58f7b242307b1159b1e838236f61a0e071e58[m
+Author: Gabriel Moraes <gmoraes.mat@gmail.com>
+Date:   Sun Jul 24 01:27:35 2022 -0300
+
+    Inicio da tela 2 Perguntas
+
+[33mcommit 039630515348ef90625b646508ea6a78c23a093e[m
+Author: Gabriel Moraes <gmoraes.mat@gmail.com>
+Date:   Sun Jul 24 00:56:04 2022 -0300
+
+    Inicio finalizado
+
+[33mcommit 33c532671c7db318310e5f1a8e44803df4854a18[m
+Author: Gabriel Moraes <gmoraes.mat@gmail.com>
+Date:   Sat Jul 23 22:04:05 2022 -0300
+
+    Primeiro commit
+
+[33mcommit 864ef37808be9ca634c6cfc0725c61f070d5d55a[m
+Author: Gabriel Moraes <gmoraes.mat@gmail.com>
+Date:   Sat Jul 23 02:03:17 2022 -0300
+
+    Initialize project using Create React App

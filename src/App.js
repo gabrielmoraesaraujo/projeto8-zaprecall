@@ -1,18 +1,26 @@
-import {BrowserRouter, Routes, Route} from "react-router-dom";
-import Inicio from './Inicio';
-import Perguntas from './Perguntas';
+import {BrowserRouter, Routes, Route} from "react-router-dom"
+import Inicio from './components/Inicio';
+import Questions from './components/Questios';
+
+import "./assets/reset.css";
+import "./assets/style.css";
 
 
 export default function App(){
 
-    return(
-        <BrowserRouter>
 
-            <Routes>
-                <Route path="/" element={ <Inicio />} />
-                <Route path="/Perguntas" element={ <Perguntas /> }/>
-            </Routes>
-         
-        </BrowserRouter>
-    );
+    return (
+                <BrowserRouter>
+               
+                    <Routes>
+                        <Route path="/" element={ <Inicio />} />
+                        <Route path="/questions" element={ <Questions />} />
+                    </Routes>                 
+                </BrowserRouter>
+    );  
 }
+
+
+
+    
+   
