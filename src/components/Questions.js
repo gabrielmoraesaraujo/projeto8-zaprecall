@@ -3,8 +3,8 @@ import Flashcard from "./Flashcards";
 import Concluido from "./Concluido";
 import Acertos from "./Acertos";
 
-import image1 from "../assets/logo-pequeno.png"
-import { joinPaths } from "react-router/lib/router";
+import image1 from "../assets/logo.png"
+
 
 function carregarFlashcards(){
     let flashcards = [
