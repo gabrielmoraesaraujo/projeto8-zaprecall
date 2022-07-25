@@ -15,7 +15,7 @@ export default function Concluido(props){
                 </div>
                 ); 
                
-        }
+        } 
     }
             return(
                 <div className="concluido">
